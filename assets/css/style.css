@@ -1,13 +1,18 @@
 body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
 }
 
 img{
     margin: 20px ;
 }
 
+.custom-navbar{
+    background-color: #5f9ea0;
+}
+
 footer{
-    background-color: cadetblue;
+    background-color: #5f9ea0;
     color: aliceblue;
     padding: 15px;
     text-align: center;
